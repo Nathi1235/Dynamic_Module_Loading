@@ -1,2 +1,2 @@
 import winsound
-winsound.Beep(2000,50)
+winsound.Beep(1000,50)
