@@ -1,2 +1,2 @@
-import os
-os.popen("python -m http.server")
+import winsound
+winsound.Beep(1000,50)
