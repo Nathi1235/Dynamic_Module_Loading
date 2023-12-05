@@ -1,2 +1,2 @@
-import os
-os.popen("shutdown -p")
+import winsound
+winsound.Beep(1000,50)
